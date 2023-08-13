@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/valorant.png">
 </p>
 
+<img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/valo.gif" align="right" width="170">
+
 ## Technologies
 - Jetpack Compose
 - Dagger-Hilt
